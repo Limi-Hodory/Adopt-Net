@@ -1,7 +1,7 @@
 # Adopt-Net
 Hello everybody,
 
-I'm excited to present my final "Advanced Web Application Development" project done with Amit Ben Basat and Liem Mazal as part of our B.Sc Computer Science studies.
+I'm excited to present my final "Advanced Web Application Development" project done as part of my B.Sc Computer Science studies.
 
 During the project I had to work with different technologies and programming languages, including:
 
